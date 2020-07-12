@@ -1,8 +1,8 @@
 ---
-title: 'Week 7 - 5 Qualitative Research Methods, a Video (1 of 3)'
-embedly_card_title: '5 Qualitative Research Methods, a Video (5 minutes)'
+title: 'Week 7 - A 5-Step Process For Conducting User Research (1 of 3)'
+embedly_card_title: 'A 5-Step Process For Conducting User Research (18 minutes)'
 embedly_card_alignment: left
-embedly_card_url: 'https://www.youtube.com/watch?v=dyHMTaQJmYo'
+embedly_card_url: 'https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/'
 published: true
 visible: true
 display_page_title_link: true

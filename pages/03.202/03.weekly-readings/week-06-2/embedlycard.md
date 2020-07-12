@@ -1,5 +1,5 @@
 ---
-title: 'Week 6 - Design Scenarios (2 of 3)'
+title: 'Week 6 - Design Scenarios (2 of 4)'
 embedly_card_title: 'Design Scenarios (16 minute read, incl. slides)'
 embedly_card_alignment: left
 embedly_card_url: 'https://medium.com/enterprise-ux/design-scenarios-677d63521902'

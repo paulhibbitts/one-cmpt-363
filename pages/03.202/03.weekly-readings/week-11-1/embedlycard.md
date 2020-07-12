@@ -1,5 +1,5 @@
 ---
-title: 'Week 11 - Design Systems and Systems Design — what’s the difference? (1 of 3)'
+title: 'Week 11 - Design Systems and Systems Design — what’s the difference? (1 of 2)'
 embedly_card_title: 'Design Systems and Systems Design — what’s the difference? (5 minute read)'
 embedly_card_alignment: left
 embedly_card_url: 'https://uxdesign.cc/design-systems-and-systems-design-whats-the-difference-b184aa6e5f0d'

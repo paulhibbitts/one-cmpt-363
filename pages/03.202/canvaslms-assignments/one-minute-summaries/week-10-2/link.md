@@ -4,6 +4,6 @@ published: true
 visible: true
 badge_display: true
 badge_label: 'Jul 15th 11:59pm PDT'
-link_text: 'How to use typography in UI Design'
-link_url: 'https://canvas.sfu.ca/courses/53207/assignments/457081'
+link_text: 'Typography Tutorial - 10 rules to help you rule type, a Video'
+link_url: 'https://canvas.sfu.ca/courses/53207/discussion_topics/1045544'
 ---

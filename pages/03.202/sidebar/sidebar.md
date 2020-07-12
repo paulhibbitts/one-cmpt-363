@@ -11,16 +11,6 @@ Paul Hibbitts
 [fa icon="comment"]PaulHibbitts on [CSSS Discord](https://t.co/GZQUc6iVjS)  
 [fa icon="twitter"][@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
-Online office hours chat (right here):  
-Wednesdays 12:00-12:30pm PDT  
-Fridays 12:00-12:30pm PDT  
-
-Zoom Open Office Hours (check maillist for link):
-Wednesdays 12:30-1:30pm PDT  
-
-Zoom 1-on-1 Office Hours:  
-Wednesdays 1:30-2:00pm PDT  
-
 Suggestion or complaint?  
 [fa icon="bullhorn"][Anonymous Course Feedback](https://oet.sandcats.io/shared/8RNhsuwwqQQAce71Yy3DRt_wNLPV6WNtyfnvIMMYFyi)  
 
@@ -47,4 +37,4 @@ Mohsen Kamalzadeh
 <hr>
 
 **80's Flashback Friday**  
-[Talking Heads - And She Was](https://www.youtube.com/watch?v=cl3B_FTDKD0)
+[The Cure - Just Like Heaven](https://www.youtube.com/watch?v=q2aBn-QuPVw)

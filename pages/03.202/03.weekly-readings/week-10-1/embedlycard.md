@@ -1,5 +1,5 @@
 ---
-title: 'Week 10 - How to Use C.R.A.P. Design Principles For Better UX? (1 of 4)'
+title: 'Week 10 - How to Use C.R.A.P. Design Principles For Better UX? (1 of 3)'
 embedly_card_title: 'How to Use C.R.A.P. Design Principles For Better UX? (8 minute read)'
 embedly_card_alignment: left
 embedly_card_url: 'https://vwo.com/blog/crap-design-principles/'

@@ -10,4 +10,5 @@ _System design is the process of designing the components of a system, and how t
 *   [Digital Design is Never Really Done: A Systems-Oriented Design Approach](https://www.bounteous.com/insights/2019/08/16/systems-oriented-design-approach/?lang=en-ca)  
 *   [How to design systems, not screens](https://uxdesign.cc/functionality-elements-states-how-to-design-systems-not-screens-c8089722506f)  
 *   [Systems Design: Because everything* is systems](https://ux.shopify.com/msystems-design-because-everything-is-systems-db4bb91b1947)  
+*   [Systems Thinking in Seven (7) Images](https://blog.cabreraresearch.org/systems-thinking-in-a-7-images)  
 *   [Tools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)  

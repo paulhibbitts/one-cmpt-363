@@ -4,6 +4,6 @@ published: true
 visible: true
 badge_display: true
 badge_label: 'Jun 24th 11:59pm PDT'
-link_text: 'How to Leverage Thematic Analysis for Better UX'
-link_url: 'https://canvas.sfu.ca/courses/53207/discussion_topics/1045551'
+link_text: '7 Alternative User Research Methods'
+link_url: 'https://canvas.sfu.ca/courses/53207/assignments/463216'
 ---

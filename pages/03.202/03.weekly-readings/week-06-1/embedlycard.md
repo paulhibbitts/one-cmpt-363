@@ -1,5 +1,5 @@
 ---
-title: 'Week 6 - Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each | Adobe Blog (1 of 3)'
+title: 'Week 6 - Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each | Adobe Blog (1 of 4)'
 embedly_card_title: 'Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each | Adobe Blog (11 minute read)'
 embedly_card_alignment: left
 embedly_card_url: 'https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/'

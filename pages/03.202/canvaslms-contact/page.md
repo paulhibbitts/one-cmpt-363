@@ -19,13 +19,6 @@ visible: false
   </a><br>
   <i class="fa fa-comment" aria-hidden="true"></i> PaulHibbitts on <a href="https://t.co/GZQUc6iVjS">CSSS Discord</a><br>
   <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/hibbittsdesign">@hibbittsdesign</a><br><br>
-  Online office hours chat (right here):<br>  
-  Wednesdays 12:00-12:30pm PDT<br>  
-  Fridays 12:00-12:30pm PDT<br><br>   
-  Zoom Open Office Hours (check maillist for link):<br>
-  Wednesdays 12:30-1:30pm PDT<br><br>  
-  Zoom 1-on-1 Office Hours:<br>  
-  Wednesdays 1:30-2:00pm PDT<br><br>   
   Suggestion or complaint?<br><i class="fa fa-bullhorn" aria-hidden="true"></i><a href="https://oet.sandcats.io/shared/8RNhsuwwqQQAce71Yy3DRt_wNLPV6WNtyfnvIMMYFyi">Anonymous Course Feedback</a><br><br>
   Teaching Assistants<br>
   Mohammad Rajabi Seraji<br>  
