@@ -2,7 +2,7 @@
 title: 'Week 11 (Jul 18 - 24)'
 published: true
 date: '18-07-2020 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -33,6 +33,7 @@ hide_git_sync_repo_link: true
 
 **Special Topics**  
 Design of Interactive Help Systems ([Dr. Parmit Chilana](https://hci.cs.sfu.ca/))
+[pdf url="https://opencoursehub.cs.sfu.ca/paulh/cmpt-363/202/pdfs/Summer2020-363-designingHelpSystems.pdf"]
 
 [Week 11 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTbPvVfqn7_quv4FiJ1JqQP7d0_g0B-Xt9H5fiKpn7EtTTucgfvxnoTjj_sulPv5oRkYu0oG1VNkvqd/pub?start=false&loop=false&delayms=3000)  | [PDF](https://canvas.sfu.ca/courses/53207/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-11)
 [googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vRFB6MJQNCYV5gK6IJSF6tkHQfn4r2ATAqmC5Ll4nIVBjEi9tExVAATF-TzeXDqLeDnSEhzWj6yB_Im/embed?start=false&loop=false&delayms=3000"]
