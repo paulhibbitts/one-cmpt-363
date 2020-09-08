@@ -1,0 +1,25 @@
+<!--- Your global JavaScript code can go here -->
+
+{% if not grav.uri.param('chromeless') and not grav.uri.param('embedded') %}
+<!-- Start of Rocket.Chat Livechat Script -->
+<script type="text/javascript">
+(function(w, d, s, u) {
+	w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
+	var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
+	j.async = true; j.src = 'https://hibbitts.rocket.chat/livechat/rocketchat-livechat.min.js?_=201903270000';
+	h.parentNode.insertBefore(j, h);
+})(window, document, 'script', 'https://hibbitts.rocket.chat/livechat');
+</script>
+<!-- End of Rocket.Chat Livechat Script -->
+{% endif %}
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19424343-29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-19424343-29');
+</script>
