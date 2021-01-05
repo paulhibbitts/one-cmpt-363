@@ -1,8 +1,8 @@
 ---
-title: 'Week 8 - A guide to top UX Research methods (2 of 2)'
-embedly_card_title: 'A guide to top UX Research methods (8 minute read)'
+title: 'Week 8 - Job Stories Offer a Viable Alternative to User Stories (2 of 2)'
+embedly_card_title: 'Job Stories Offer a Viable Alternative to User Stories (10 minute read)'
 embedly_card_alignment: left
-embedly_card_url: 'https://uxdesign.cc/a-guide-to-top-ux-research-methods-1adef6d46efe'
+embedly_card_url: 'https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories'
 published: true
 visible: true
 display_page_title_link: true

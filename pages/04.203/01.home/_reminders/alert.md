@@ -4,17 +4,14 @@ alert_style: alert-secondary
 published: true
 ---
 
-## What’s Happening First Week 🚀
+## What's Happening This Week 💫
 
 ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/56304/external_tools/3544)  
 
-* Course Overview [badge label="Thu Sep 10th 2:30pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20200910T1430&p1=256&am=50"] [Guest access for waitlisted students TBA]
+* [Zoom Open Office Hours](https://www2.cs.sfu.ca/CourseCentral/363/paulh/open-office-hours) [badge label="Tue Dec 8th 2:30pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom-Office+Hours&iso=20201208T1430&p1=256&ah=1&am=50"]
 
 ### Important Reminders
 
-* [Create Project Group](https://canvas.sfu.ca/courses/56304/groups#tab-24006) [badge label="Mon Sep 21st 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Project+Group+Due+Date&iso=20200921T235900&p1=256"]
-
-Is your group interested in an open source mobile project other than the planned SFU MySchedule Mobile redesign? Post your [group project proposal](https://canvas.sfu.ca/courses/56304/discussion_topics/1114506) by Sep 28th.
-
-### Required Readings & One-Minute Summaries
-Weekly readings and one-minute summaries start week of Sep 12th.
+* [Team Member Evaluations](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="
+Mon Dec 7th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluations+Due+Date&iso=20201207T2359&p1=256"]  
+* [Online Final Exam](https://canvas.sfu.ca/courses/56304/quizzes/128580) [badge label="Wed Dec 9th 12:00pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final-Exam&iso=20201209T1200&p1=256&ah=3&am=00"]  

@@ -15,7 +15,8 @@ Suggestion or complaint?
 [fa icon="bullhorn"][Anonymous Course Feedback](https://www.surveymonkey.ca/r/2PL5WWJ)  
 
 Teaching Assistants  
-TBD  
+[safe-email autolink="true" icon="envelope"]bmuthuvi@sfu.ca[/safe-email]  
+[safe-email autolink="true" icon="envelope"]akshit_sharma@sfu.ca[/safe-email]  
 
 ## Canvas LMS Tools
 [fa icon="calendar"][Calendar](https://canvas.sfu.ca/calendar)  
@@ -32,5 +33,10 @@ TBD
 
 <hr>
 
+<a class="weatherwidget-io" href="https://forecast7.com/en/49d25n122d98/burnaby/" data-label_1="Burnaby, BC" data-label_2="Current Weather" data-font="Open Sans" data-icons="Climacons" data-mode="Current" data-days="3" data-theme="weather_one" >Burnaby, BC Current Weather</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+
 **90's Flashback Friday**  
-[R.E.M. - Near Wild Heaven](https://www.youtube.com/watch?v=oC7er_6dpsI)
+[Lightning Seeds - Pure](https://www.youtube.com/watch?v=HZFJVAaSOrE)

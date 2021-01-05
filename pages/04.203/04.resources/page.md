@@ -26,6 +26,11 @@ anchors:
 *   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/)
 *   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
 
+## Blackboard Collaborate
+
+*   [Chrome Browser Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+*   [Firefox Browser Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/videospeed/)
+
 ## Figma
 *   [Figma Web App](https://www.figma.com/) (request a free student account)
 *   [Figma Help Centre](https://help.figma.com/hc/en-us)
@@ -38,6 +43,7 @@ anchors:
 *   [iOS Human Interface Design Guidelines (iPhone and iPad)](https://developer.apple.com/ios/human-interface-guidelines/)
 *   [KDE Human Interface Design Guidelines](https://hig.kde.org/)
 *   [OS X Human Interface Design Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html#//apple_ref/doc/uid/TP40002720-TPXREF101)
+*   [User Interface Platform Guidelines](https://balsamiq.com/learn/resources/ui-platform-guidelines/)
 *   [Windows App Design Guidelines (Touch)](https://msdn.microsoft.com/en-us/library/dn742468.aspx)
 
 ## UX Templates  

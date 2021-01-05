@@ -2,15 +2,15 @@
 title: 'Preparations'
 published: true
 header_image: true
-header_image_file: /203/home/week-02
 ---
 
-## Looking Ahead to the Second Week 🔭
+## Looking Ahead to the Final Exam 🔭
 
-### Week 2 Live Blackboard Collaborate Sessions
-* [plugin:page-inject](../../blackboard-sessions/week-02-1)   	
-* [plugin:page-inject](../../blackboard-sessions/week-02-2)  
+- Online Final Exam Dec 9th 12:00pm - 3:00pm PST (or Dec 9th 7:00pm - 10:00pm PST)
+- Do a [Browser check](https://www.whatismybrowser.com/) before - Firefox or Google Chrome recommended
+- Take the exam at a quiet location, with a wired Internet connection or strong WiFi signal
+- Write your answers in a word processing app and then paste them into Quiz answer fields
+- During the exam you can post questions in the Final Exam Clarifications discussion
+- Only press the Submit button once when you have completed the Quiz
 
-### Week 2 Required Readings and One-Minute Summaries
-* [plugin:page-inject](../../weekly-readings/week-02-1?template=partials/embedlycardlinkonly)  	
-* [plugin:page-inject](../../weekly-readings/week-02-2?template=partials/embedlycardlinkonly)  
+Have a question about the Final Exam? Post your question in the [Final Exam Q&A forum](https://canvas.sfu.ca/courses/56304/discussion_topics/1113731).

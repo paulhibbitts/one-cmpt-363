@@ -54,6 +54,7 @@ anchors:
 [Jakob Nielsen’s Heuristics](../home/week-04)  
 [Jobs to Be Done Framework](../home/week-08)  
 [Job Stories](../home/week-08)    
+[Journey Mapping](../home/week-02)    
 
 ### L
 [Layout](../home/week-11)  
