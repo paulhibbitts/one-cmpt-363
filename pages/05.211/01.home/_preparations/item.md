@@ -2,19 +2,20 @@
 title: 'Preparations'
 published: true
 header_image: true
-header_image_file: /211/home/week-03
+header_image_file: /211/home/week-04
 ---
 
 ## What’s Happening Next Week 🔭
 
-### How to conduct a user interface inspection?
+### Special topic — heuristic evaluations
 
-#### Week 3 Live Blackboard Collaborate Sessions
+#### Week 4 Live Blackboard Collaborate Sessions
 
-* [plugin:page-inject](/211/online-sessions/week-03-1)
-* [plugin:page-inject](/211/online-sessions/week-03-2)
+* [plugin:page-inject](/211/online-sessions/week-04-1)
+* [plugin:page-inject](/211/online-sessions/week-04-2)
 
-#### Week 3 Required Readings and One-Minute Summaries
+#### Week 4 Required Readings and One-Minute Summaries
 
-* [plugin:page-inject](/211/weekly-readings/week-03-1?template=partials/embedlycardlinkonly)  	
-* [plugin:page-inject](/211/weekly-readings/week-03-2?template=partials/embedlycardlinkonly)  
+* [plugin:page-inject](/211/weekly-readings/week-04-1?template=partials/embedlycardlinkonly)  	
+
+No weekly review quiz.  

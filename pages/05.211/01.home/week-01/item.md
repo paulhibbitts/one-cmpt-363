@@ -29,8 +29,8 @@ continue_link: true
 
 ### Required Readings  
 
-[plugin:page-inject](/211/weekly-readings/week-01-1)  
-[plugin:page-inject](/211/weekly-readings/week-01-2)  
+[plugin:page-inject](/211/weekly-readings/week-01-1?template=partials/embedlycardlinkonly)  
+[plugin:page-inject](/211/weekly-readings/week-01-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
 

@@ -9,7 +9,7 @@ visible: false
 
 <div class="row">
   <div class="col-md-7">
-  <br><p><iframe id="livechat" style="margin-top: -16px; border: 1px #ffffff none;" src="https://hibbitts.rocket.chat/livechat?mode=popout" width="100%" height="810px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe></p><br>
+  <br><p><iframe id="livechat" style="margin-top: -16px; border: 1px #ffffff none;" src="https://hibbitts.rocket.chat/livechat?mode=popout" width="100%" height="510px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe></p><br>
   </div>
   <div class="col-md-5 order-first order-md-2"><br>
   <h2>Course Facilitators</h2>
