@@ -2,7 +2,7 @@
 title: 'Week 1 (Jan 11 - 17)'
 published: true
 date: '11-01-2021 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 hide_page_title: false
 show_sidebar: true
@@ -34,13 +34,11 @@ continue_link: true
 
 ### BlackBoard Collaborate Session Slides
 
-[The Process of UX Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
+[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
-
-[Week 2 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
-
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
+[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-01) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
 

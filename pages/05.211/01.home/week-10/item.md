@@ -31,15 +31,12 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](/211/weekly-readings/week-10-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
-[Visual Design Essentials — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
+[Visual Design Essentials — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRmdoopTNvxKSMr8rONABJZiUt3FKBywIV1ZUwwSFYoIC9B3ksjoelbzX8g7pjcfezWUWkBXHBVMQci/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)  
 
-[Week 10 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vRmdoopTNvxKSMr8rONABJZiUt3FKBywIV1ZUwwSFYoIC9B3ksjoelbzX8g7pjcfezWUWkBXHBVMQci/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-### Supplemental Materials  
-[Typography Tutorial - 10 rules to help you rule type](https://www.youtube.com/watch?v=QrNi9FmdlxY)  
-[plugin:youtube](https://www.youtube.com/watch?v=QrNi9FmdlxY)
+[Week 10 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-10) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Supplemental Readings  
 [plugin:content-inject](/211/ux-techniques-guide/what-are-the-essentials-of-visual-interface-design/grids)  

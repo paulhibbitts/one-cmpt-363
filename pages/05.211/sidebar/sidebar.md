@@ -15,7 +15,8 @@ Suggestion or complaint?
 [fa="bullhorn"][/fa][Anonymous Course Feedback](https://www.surveymonkey.ca/r/WD9D6HJ)  
 
 Teaching Assistants  
-TBD
+[safe-email autolink="true" icon="envelope"]neil_mukesh_shah@sfu.ca[/safe-email]  
+[safe-email autolink="true" icon="envelope"]abhay_jolly@sfu.ca[/safe-email]  
 
 ## Canvas LMS Tools
 [fa="calendar"][/fa][Calendar](https://canvas.sfu.ca/calendar)  
