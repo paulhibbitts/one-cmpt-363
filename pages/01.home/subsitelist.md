@@ -8,8 +8,8 @@ visible: false
 card_width: '5'
 content:
     order:
-        by: date
-        dir: asc
+        by: folder
+        dir: desc
 ---
 
-This site contains future, current and past offerings of CMPT-363 User Interface Design at [Simon Fraser University](https://www.sfu.ca/).
+This site contains past, current and future offerings of CMPT-363 User Interface Design at [Simon Fraser University](https://www.sfu.ca/).
