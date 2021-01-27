@@ -20,6 +20,7 @@ show_sidebar: false
 **[What is the practice of multi-device interaction design?](https://canvas.sfu.ca/courses/59869/modules/items/1858685)**   
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-02-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-02-2)  
+[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-02-3)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-2?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-3?template=partials/embedlycardlinkonly)  
@@ -31,6 +32,7 @@ show_sidebar: false
 [fa="pencil"][/fa][Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20210208T2359&p1=256"][/badge]  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-2)  
+[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-3)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-03-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-03-2?template=partials/embedlycardlinkonly)   
 [fa="keyboard-o"][/fa][One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 28th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20210128T235900&p1=256"][/badge]   
@@ -59,7 +61,7 @@ Reading week, no classes
 ## [fa="calendar-o"][/fa]Week 7 (Feb 22 - 28)
 **[How to understand and communicate people's needs and behaviors?](https://canvas.sfu.ca/courses/59869/modules/items/1858689)**  
 [fa="pencil"][/fa][Group Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) [badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboards+Mockups+Due+Date&iso=2021031559&p1=256"][/badge]  
-[fa="folder"][/fa][Team Member Evaluation](https://www.surveymonkey.ca/r/WFTBBDX) [badge label="Tue Mar 16th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20210316T235900&p1=256"][/badge]  
+[fa="folder"][/fa][Team Member Evaluation](https://www.surveymonkey.ca/r/JCPFVQY) [badge label="Tue Mar 16th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20210316T235900&p1=256"][/badge]  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-07-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-07-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  

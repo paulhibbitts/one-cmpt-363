@@ -1,0 +1,99 @@
+/*
+===============================================================================================================================
+Put your custom CSS in this file.
+===============================================================================================================================
+*/
+
+/* CSS to better match font family with Canvas LMS*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato'); /* Changed for Canvas LMS */
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css'); /* Load of Font Awesome for use by Presentation Plug */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap'); /* Load of Open Sans for Presentation Plugin */
+
+body {
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+}
+
+/* CSS to better match link colors with Canvas LMS*/
+
+a:not(.btn):not(.badge):not(.navbar-brand) {
+  color: #008EE2;
+}
+
+a:hover:not(.btn), a:focus:not(.btn) {
+  color: #008EE2;
+}
+
+.btn-primary {
+    background-color: #008de2!important;
+    border-color: #008de2!important;
+}
+
+/* Load of Font Awesome for use by Presentation Plugin */
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css');
+
+/* CSS to style Presentation Plugin slides */
+.reveal .slides {
+    text-align: left;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    text-transform: unset !important;
+}
+
+.reveal .slides section section img {
+    margin: auto;
+}
+
+.reveal .slides section section .link-overlay:focus, .reveal .slides section section .link-overlay:hover {
+  outline: none!important;
+}
+
+.reveal .controls button {
+    filter: invert(70%);
+}
+
+.activity-link-color a,
+.activity-link-color a:visited,
+.activity-link-color a:hover,
+.activity-link-color a:focus
+{
+    color: white;
+}
+
+#presentation ul li, #presentation ol li {
+  margin: .35rem 0;
+  line-height: 1.1em;
+}
+
+#presentation p {
+  line-height: 1.1em;
+}
+
+.hide-rocketchat-button {
+    width: 100%;
+    height: 77px;
+    background: white;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 2.48rem;
+}
+
+ul {
+    list-style: square outside none;
+}
+
+.grav-youtube {
+    margin-bottom: 2rem;
+}
+
+.footer {
+    background-color: #fbfbfb;
+}
+
+.listbullet ul li {
+    padding-left: 1em;
+    text-indent: 0em;
+}
