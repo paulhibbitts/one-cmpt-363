@@ -94,7 +94,7 @@ anchors:
 
 ## [[fa icon="calendar-o"]Week 9 (Jul 4 - 10)](../home/week-09)
 **Instructor discovery research and exploratory storyboards meetings**  
-Online instructor meetings (20 mins.), no regular Blackboard Collaborate sessions  
+Online instructor meetings (20 mins.), no regularly scheduled Blackboard Collaborate sessions  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 [fa icon="keyboard-o"]No weekly review quiz  
 
@@ -121,7 +121,7 @@ Online instructor meetings (20 mins.), no regular Blackboard Collaborate session
 
 ## [[fa icon="calendar-o"]Week 12 (Jul 25 - Jul 31)](../home/week-12)
 **Instructor usability assessed interactive prototype meetings**  
-Online instructor meetings (20 mins.), no regular Blackboard Collaborate sessions  
+Online instructor meetings (20 mins.), no regularly scheduled Blackboard Collaborate sessions  
 <i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 [fa icon="keyboard-o"]No weekly review quiz  
 
