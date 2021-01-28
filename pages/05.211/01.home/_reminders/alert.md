@@ -18,7 +18,7 @@ hide_git_sync_repo_link: false
 
 #### Important Reminders
 
-* [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) [badge label="Mon Feb 8th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Assignment+Due+Date&iso=20210208T2359"]
+* [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) [badge label="Mon Feb 8th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Assignment+Due+Date&iso=20210208T2359"] [/badge]
 
 #### Required Readings & One-Minute Summaries
 
