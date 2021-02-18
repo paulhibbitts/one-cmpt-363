@@ -8,4 +8,4 @@ subsite_home: home
 redirect: '/211/home'
 ---
 
-[plugin:content-inject](/211/home/_reminders)
+[plugin:page-inject](/211/home/_reminders)

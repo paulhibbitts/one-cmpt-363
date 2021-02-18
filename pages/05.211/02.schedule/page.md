@@ -8,7 +8,7 @@ hide_page_title: false
 show_sidebar: true
 ---
 
-## [[fa="calendar-o"][/fa]Week 1 (Jan 11 - 17)](../home/week-01)
+## [[fa="calendar-o"][/fa]Week 1 (Jan 11 - 17)](../home/module-01)
 **Course overview/What is usability and user experience design?**  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-01-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-01-2)  

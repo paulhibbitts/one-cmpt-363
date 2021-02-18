@@ -2,7 +2,7 @@
 title: 'Week 5 (Feb 8 - 14)'
 published: true
 date: '08-02-2021 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -31,8 +31,8 @@ hide_git_sync_repo_link: true
 [Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQuJDnsvHGK20zuCNx_dW_z_d-IuD5YD9YxkdU3gwjNPFGcmH_jbhzh3kWIWyMx-HXnUjypjj6lrYSg/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQuJDnsvHGK20zuCNx_dW_z_d-IuD5YD9YxkdU3gwjNPFGcmH_jbhzh3kWIWyMx-HXnUjypjj6lrYSg/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-[Week 5 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-05) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
+[Week 5 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vR3SMhBc4WIQpoz9pFc248Amrse3gCk7gS5HIXs1TGi1ZBDglOuQlFmqeDai-_S3c991gxKCXhHp9Wf/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-05) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vR3SMhBc4WIQpoz9pFc248Amrse3gCk7gS5HIXs1TGi1ZBDglOuQlFmqeDai-_S3c991gxKCXhHp9Wf/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Downloads
 [Sketching Templates](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Sketching%20Templates)  

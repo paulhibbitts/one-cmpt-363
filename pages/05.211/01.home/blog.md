@@ -19,8 +19,8 @@ content:
 modular_content:
     items: '@self.modular'
     order:
-        by: title
-        dir: dsc
+        by: folder
+        dir: asc
 metadata:
     'twitter:card': summary
     'twitter:site': '@hibbittsdesign'
@@ -31,4 +31,3 @@ feed:
     limit: 10
     description: 'The Course Hub for CMPT 363 User Interface Design at Simon Fraser University'
 ---
-

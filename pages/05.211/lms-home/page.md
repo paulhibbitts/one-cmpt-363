@@ -11,7 +11,7 @@ page-inject:
     processed_content: true
 ---
 
-[plugin:content-inject](/211/home/_reminders)
+[plugin:page-inject](/211/home/_reminders)
 
 [plugin:page-inject](/211/home/_office-hours)
 
