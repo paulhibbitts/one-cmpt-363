@@ -120,5 +120,4 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 **Course Wrap-up**    
 
 ## [fa icon="calendar-o"]Final Exam  
-**Online Final Exam**   
-TBD
+**Online Final Exam** [badge label="Thu Apr 22nd 3:30pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final+Exam+Date&iso=20210422T153000&p1=256" target="_top"]  

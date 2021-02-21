@@ -2,22 +2,20 @@
 title: 'Preparations'
 published: true
 header_image: true
-header_image_file: /211/home/week-07
+header_image_file: /211/home/week-08
 ---
 
 ## What’s Happening Next Week 🔭
 
-### How to understand and communicate people's needs and behaviours?
+### How to bridge the gap between the problem space and design space?
 
-#### Week 7 Live Blackboard Collaborate Sessions
+#### Week 8 Live Blackboard Collaborate Sessions
 
-* [plugin:page-inject](/211/online-sessions/week-07-1)
-* [plugin:page-inject](/211/online-sessions/week-07-2)
+* [plugin:page-inject](/211/online-sessions/week-08-1)
+* [plugin:page-inject](/211/online-sessions/week-08-2)
 
-#### Week 7 Required Readings and One-Minute Summaries
+#### Week 8 Required Readings and One-Minute Summaries
 
-* [plugin:page-inject](/211/weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  
-* [plugin:page-inject](/211/weekly-readings/week-07-2?template=partials/embedlycardlinkonly)  
-
-#### Week 7 Assignment Sneak Peek
-* [Group Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038)
+* [plugin:page-inject](/211/weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
+* [plugin:page-inject](/211/weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
+* [plugin:page-inject](/211/weekly-readings/week-08-3?template=partials/embedlycardlinkonly)  

@@ -8,7 +8,7 @@ hide_page_title: false
 show_sidebar: true
 ---
 
-## [[fa="calendar-o"][/fa]Week 1 (Jan 11 - 17)](../home/module-01)
+## [[fa="calendar-o"][/fa]Week 1 (Jan 11 - 17)](../home/week-01)
 **Course overview/What is usability and user experience design?**  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-01-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-01-2)  
@@ -121,5 +121,4 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 **Course wrap-up**   
 
 ## [fa="calendar-o"][/fa]Final Exam
-**Online Final Exam**  
-TBD
+**Online Final Exam** [badge label="Thu Apr 22nd 3:30pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Final+Exam+Date&iso=20210422T153000&p1=256" target="_top"]   
