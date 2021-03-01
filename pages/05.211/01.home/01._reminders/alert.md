@@ -9,12 +9,12 @@ hide_git_sync_repo_link: false
 
 ## What’s Happening This Week 💫
 
-### How to understand and communicate people's needs and behaviors?
+### How to bridge the gap between the problem space and design space?
 
 #### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/59869/external_tools/3544)  
 
-*   [plugin:page-inject](/211/online-sessions/week-07-1)
-*   [plugin:page-inject](/211/online-sessions/week-07-2)
+*   [plugin:page-inject](/211/online-sessions/week-08-1)
+*   [plugin:page-inject](/211/online-sessions/week-08-2)
 
 
 ### Important Reminders
@@ -24,7 +24,8 @@ hide_git_sync_repo_link: false
 
 #### Required Readings & One-Minute Summaries
 
-*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-07-1)
-*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-07-2)
+*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-08-1)
+*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-08-2)
+*   [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-08-3)
 
-[button label="Week 7 Review Quiz due Mar 1" url="https://canvas.sfu.ca/courses/59869/assignments/583049" /]
+[button label="Week 8 Review Quiz due Mar 7" url="https://canvas.sfu.ca/courses/59869/assignments/583050" /]

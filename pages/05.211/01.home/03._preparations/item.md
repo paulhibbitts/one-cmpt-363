@@ -7,15 +7,8 @@ header_image_file: /211/home/week-08
 
 ## What’s Happening Next Week 🔭
 
-### How to bridge the gap between the problem space and design space?
+### Instructor design scenarios and storyboard mockups meetings
 
-#### Week 8 Live Blackboard Collaborate Sessions
+Instructor design scenarios and storyboard mockups meetings, no regularly scheduled Blackboard Collaborate sessions.
 
-* [plugin:page-inject](/211/online-sessions/week-08-1)
-* [plugin:page-inject](/211/online-sessions/week-08-2)
-
-#### Week 8 Required Readings and One-Minute Summaries
-
-* [plugin:page-inject](/211/weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
-* [plugin:page-inject](/211/weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
-* [plugin:page-inject](/211/weekly-readings/week-08-3?template=partials/embedlycardlinkonly)  
+Zoom group meetings between 12:00pm and 4:00pm PST on Mar 9th, 10th and 11th.
