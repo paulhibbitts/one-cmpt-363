@@ -21,7 +21,7 @@ a:not(.btn):not(.badge):not(.navbar-brand) {
   color: #008EE2;
 }
 
-a:hover:not(.btn), a:focus:not(.btn) {
+a:hover:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link), a:focus:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link) {
   color: #008EE2;
 }
 
@@ -76,6 +76,7 @@ a:hover:not(.btn), a:focus:not(.btn) {
     height: 77px;
     background: white;
     position: absolute;
+    z-index: inherit;
     right: 0;
     bottom: 0;
     margin-bottom: 2.48rem;
@@ -91,9 +92,4 @@ ul {
 
 .footer {
     background-color: #fbfbfb;
-}
-
-.listbullet ul li {
-    padding-left: 1em;
-    text-indent: 0em;
 }
