@@ -16,6 +16,10 @@ hide_git_sync_repo_link: true
 
 ## **How to explore and communicate possible design solutions?**
 
+### Assignments
+Due  
+[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Usability+Inspection+Assignment+Due+Date&iso=20210208T2359"][/badge]  
+
 ### One-Minute Summaries and Questions  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-05-1)  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-05-2)  

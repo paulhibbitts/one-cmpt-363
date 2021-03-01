@@ -16,15 +16,16 @@ hide_git_sync_repo_link: true
 
 ## **How to understand and communicate people's needs and behaviours?**
 
+### Assignments
+New  
+[Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) [badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Mockups+Due+Date&iso=20210315T2359"][/badge]  
+
 ### One-Minute Summaries and Questions  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-07-1)  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-07-2)  
 
 ### Weekly Quiz
 [plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-07)  
-
-### Assignments
-[Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) [badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Mockups+Due+Date&iso=20210315T2359"][/badge]  
 
 ### Required Readings  
 [plugin:page-inject](/211/weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  

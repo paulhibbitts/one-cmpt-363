@@ -16,15 +16,19 @@ hide_git_sync_repo_link: true
 
 ## **What are the essentials of visual interface design?**
 
+### Assignments
+Due  
+[Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) [badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Mockups+Due+Date&iso=20210315T2359"][/badge]   
+
+New  
+[Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) [badge label="Tue Apr 6th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20210406T2359"][/badge]  
+
 ### One-Minute Summaries and Questions  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-10-1)  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-10-2)  
 
 ### Weekly Quiz
 [plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-10)  
-
-### Assignments
-[Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) [badge label="Tue Apr 6th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20210406T2359"][/badge]  
 
 ### Required Readings  
 [plugin:page-inject](/211/weekly-readings/week-10-1?template=partials/embedlycardlinkonly)  

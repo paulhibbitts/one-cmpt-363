@@ -2,7 +2,7 @@
 title: 'Week 9 (Mar 8 - 14)'
 published: true
 date: '08-03-2021 00:00'
-hide_from_post_list: false
+hide_from_post_list: true
 hide_git_sync_repo_link: true
 ---
 
