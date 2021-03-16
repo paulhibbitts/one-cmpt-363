@@ -1,5 +1,5 @@
 ---
-title: 'Preparations'
+title: Preparations
 published: true
 header_image: true
 header_image_file: /211/home/week-08
@@ -7,8 +7,14 @@ header_image_file: /211/home/week-08
 
 ## What’s Happening Next Week 🔭
 
-### Instructor design scenarios and storyboard mockups meetings
+### What are the essentials of visual interface design?
 
-Instructor design scenarios and storyboard mockups meetings, no regularly scheduled Blackboard Collaborate sessions.
+#### Week 10 Live Blackboard Collaborate Sessions
 
-Zoom group meetings between 12:00pm and 4:00pm PST on Mar 9th, 10th and 11th.
+* [plugin:page-inject](/211/online-sessions/week-10-1)
+* [plugin:page-inject](/211/online-sessions/week-10-2)
+
+#### Week 10 Required Readings and One-Minute Summaries
+
+* [plugin:page-inject](/211/weekly-readings/week-10-1?template=partials/embedlycardlinkonly)  
+* [plugin:page-inject](/211/weekly-readings/week-10-2?template=partials/embedlycardlinkonly)  
