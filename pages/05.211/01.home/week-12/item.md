@@ -6,13 +6,13 @@ hide_from_post_list: true
 hide_git_sync_repo_link: true
 ---
 
-Instructor design reviews, no regularly scheduled Blackboard Collaborate sessions.
+Instructor design reviews, no regularly scheduled Blackboard Collaborate sessions or online office hours.
 
 Zoom group meetings TBD.
 
 ===
 
-Instructor design reviews, no regularly scheduled Blackboard Collaborate sessions.
+Instructor design reviews, no regularly scheduled Blackboard Collaborate sessions or online office hours.
 
 Zoom group meetings TBD.
 

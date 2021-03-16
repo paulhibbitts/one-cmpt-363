@@ -13,6 +13,7 @@ _The process of learning about the audience for your system or product._
 *   [Needs statement](https://www.ibm.com/design/thinking/page/toolkit/activity/needs-statements)  
 *   [One page user research plan](http://uxdesign.smashingmagazine.com/2012/01/26/ux-research-plan-stakeholders-love/)  
 *   [Step By Step Guide To More Structured User Research](http://blog.usabilla.com/step-by-step-guide-to-more-structured-user-research/)  
+*   [The forgotten step where even brilliant research fails (or makes you invaluable)](https://uxdesign.cc/the-forgotten-step-where-even-brilliant-research-fails-or-makes-you-invaluable-6ddec8481c80)  
 *   [The two questions we answer with user research](http://www.userfocus.co.uk/articles/the_two_questions_we_answer_with_user_research.html)  
 *   [User Research: What It Is and Why You Should Do It](https://www.interaction-design.org/literature/article/user-research-what-it-is-and-why-you-should-do-it)  
 *   [User Need Statements: The ‘Define’ Stage in Design Thinking](https://www.nngroup.com/articles/user-need-statements/)  

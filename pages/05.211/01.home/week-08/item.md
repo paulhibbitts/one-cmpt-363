@@ -2,7 +2,7 @@
 title: 'Week 8 (Mar 1 - 7)'
 published: true
 date: '01-03-2021 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -34,8 +34,8 @@ hide_git_sync_repo_link: true
 [Conceptual Models — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRZK3TQVbKzQtEOmW_m16gWgoQV9U8CbjUJki--NrTAc-x4AHgKWeOtultehEEOsfP2BIj9bcMGZDZ7/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vRZK3TQVbKzQtEOmW_m16gWgoQV9U8CbjUJki--NrTAc-x4AHgKWeOtultehEEOsfP2BIj9bcMGZDZ7/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-08) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
+[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vSZ8ltdtIViiHeaSbPFnsN0S14G3xNNUmLL4rJ3CyZ0mblGIoT4cPZu03I7riSFB08wuqyS3Wme5rsp/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-08) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSZ8ltdtIViiHeaSbPFnsN0S14G3xNNUmLL4rJ3CyZ0mblGIoT4cPZu03I7riSFB08wuqyS3Wme5rsp/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Supplemental Materials  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
