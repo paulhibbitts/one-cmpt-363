@@ -2,7 +2,7 @@
 title: 'Week 10 (Mar 15 - 21)'
 published: true
 date: '15-03-2021 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
