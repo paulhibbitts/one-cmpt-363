@@ -2,7 +2,7 @@
 title: 'Week 11 (Mar 22 - 28)'
 published: true
 date: '22-03-2021 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -11,10 +11,6 @@ hide_git_sync_repo_link: true
 ### Required Readings  
 [plugin:page-inject](/211/weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  
 [plugin:page-inject](/211/weekly-readings/week-11-2?template=partials/embedlycardlinkonly)  
-
-## Instructor interactive prototype meetings
-
-TBD
 
 ===
 
@@ -31,6 +27,9 @@ TBD
 ### BlackBoard Collaborate Session Slides
 [Special Topic — Visual Interface Design](https://docs.google.com/presentation/d/e/2PACX-1vRCKpXxRlhGn3clnhcUsOKVpCTc5OQm623s2JPRXY4_7v7QXCzL6VAOj04M6aOxMa-tiwf5sO1kJvcB/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-11) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vRCKpXxRlhGn3clnhcUsOKVpCTc5OQm623s2JPRXY4_7v7QXCzL6VAOj04M6aOxMa-tiwf5sO1kJvcB/embed?start=false&loop=false&delayms=3000[/googleslides]
+
+[Week 11 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vRBk36lgxcLyFLvl_J3HL8iI4nNbzqB_z2m6SOdSPqbxZ-gMf_2_PUpNjYN6X1YMR0-7__UpWFFHZeM/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-11) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vRBk36lgxcLyFLvl_J3HL8iI4nNbzqB_z2m6SOdSPqbxZ-gMf_2_PUpNjYN6X1YMR0-7__UpWFFHZeM/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Supplemental Readings  
 [plugin:content-inject](/211/ux-techniques-guide/how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility)  

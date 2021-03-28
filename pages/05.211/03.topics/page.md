@@ -1,6 +1,7 @@
 ---
 title: Topics
 published: true
+hide_git_sync_repo_link: true
 body_classes: topics
 anchors:
     active: true

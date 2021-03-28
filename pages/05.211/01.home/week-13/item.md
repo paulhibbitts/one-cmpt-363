@@ -18,7 +18,7 @@ hide_git_sync_repo_link: true
 
 ### Assignments
 Due  
-[Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) [badge label="Tue Apr 6th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20210406T2359"][/badge]  
+[Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) [badge label="Tue Apr 6th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20210406T2359"][/badge]  
 
 ### One-Minute Summaries and Questions  
 [plugin:page-inject](/211/lms-assignments/one-minute-summaries/week-13-1)  

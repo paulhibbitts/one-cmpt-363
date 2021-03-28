@@ -7,4 +7,4 @@ _A qualitative technique for collecting information about user behaviors, activi
 
 *   [Dear Diary: Using Diaries to Study User Experience](http://uxpamagazine.org/dear-diary-using-diaries-to-study-user-experience/)  
 *   [Diary Studies: Understanding Long-Term User Behavior and Experiences](https://www.nngroup.com/articles/diary-studies/)  
-*   [JumPSTart Design Research with a Diary Study](http://www.uxbooth.com/articles/jumPSTart-design-research-with-a-diary-study/)  
+*   [JumPTart Design Research with a Diary Study](http://www.uxbooth.com/articles/jumPTart-design-research-with-a-diary-study/)  
