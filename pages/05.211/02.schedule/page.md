@@ -12,7 +12,7 @@ show_sidebar: true
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-01-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-01-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-01-2?template=partials/embedlycardlinkonly)  
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 14th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+One-minute+Summaries+for+Week+2+Due+Date&iso=20210114T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 14th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+One-minute+Summaries+for+Week+1+Due+Date&iso=20210114T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-01)   
 
 ## [[fa="calendar-o"][/fa]Week 2 (Jan 18 - 24)](../home/week-02)
@@ -22,7 +22,7 @@ show_sidebar: true
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-2?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-02-3?template=partials/embedlycardlinkonly)  
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 21st 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210121T235900&p1=256"][/badge]    
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 21st 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210121T235900&p1=256"][/badge]    
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-02)  
 
 ## [[fa="calendar-o"][/fa]Week 3 (Jan 25 - 31)](../home/week-03)
@@ -32,7 +32,7 @@ show_sidebar: true
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-03-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-03-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-03-2?template=partials/embedlycardlinkonly)   
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 28th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20210128T235900&p1=256"][/badge]   
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Jan 28th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210128T235900&p1=256"][/badge]   
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-03)  
 
 ## [[fa="calendar-o"][/fa]Week 4 (Feb 1 - 7)](../home/week-04)
@@ -40,7 +40,7 @@ show_sidebar: true
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-04-1)  
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-04-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-04-1?template=partials/embedlycardlinkonly)   
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Feb 4th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20210204T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Feb 4th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210204T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa]No weekly review quiz  
 
 ## [[fa="calendar-o"][/fa]Week 5 (Feb 8 - 14)](../home/week-05)
@@ -50,7 +50,7 @@ show_sidebar: true
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-05-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-05-2?template=partials/embedlycardlinkonly)  
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Feb 11th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20210211T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Feb 11th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20210211T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-05)  
 
 ## [[fa="calendar-o"][/fa]Week 6 (Feb 15 - 21)](../home/week-06)
@@ -64,7 +64,7 @@ show_sidebar: true
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-07-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-07-2?template=partials/embedlycardlinkonly)  
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Feb 25th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20210225T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Feb 25th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20210225T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-07)  
 
 ## [[fa="calendar-o"][/fa]Week 8 (Mar 1 - 7)](../home/week-08)
@@ -74,7 +74,7 @@ show_sidebar: true
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-08-2?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-08-3?template=partials/embedlycardlinkonly)  
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Mar 4th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20210304T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Mar 4th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20210304T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-08)  
 
 ## [[fa="calendar-o"][/fa]Week 9 (Mar 8 - 14)](../home/week-09)
@@ -92,7 +92,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-10-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-10-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-10-2?template=partials/embedlycardlinkonly)    
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Mar 18th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20210318T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Mar 18th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20210318T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-10)
 
 ## [[fa="calendar-o"][/fa]Week 11 (Mar 22 - 28)](../home/week-11)
@@ -100,7 +100,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-11-1)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-11-2?template=partials/embedlycardlinkonly)  
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Mar 25th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20210325T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Mar 25th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20210325T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-11)
 
 ## [[fa="calendar-o"][/fa]Week 12 (Mar 29- Apr 4)](../home/week-12)
@@ -115,7 +115,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 [fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-13-2)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-13-1?template=partials/embedlycardlinkonly)  
 [fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-13-2?template=partials/embedlycardlinkonly)  
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Apr 8th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210408T235900&p1=256"][/badge]  
+[fa="keyboard-o"][/fa][One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/59869/assignments) [badge label="Thu Apr 8th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20210408T235900&p1=256"][/badge]  
 [fa="keyboard-o"][/fa][plugin:page-inject](/211/lms-assignments/weekly-review-quizzes/week-13)  
 
 ## [[fa="calendar-o"][/fa]Week 14 (Apr 12 - 16)](../home/week-14)
