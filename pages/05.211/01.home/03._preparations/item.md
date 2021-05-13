@@ -2,19 +2,15 @@
 title: Preparations
 published: true
 header_image: true
-header_image_file: /211/home/week-13
 ---
 
-## What’s Happening Next Week 🔭
+## Final Exam Details
 
-### How to plan, conduct, and summarize usability tests?
+- Online Final Exam Apr 22nd 3:30pm - 6:30pm PT
+- Do a  [Browser check](https://www.whatismybrowser.com/) before - Firefox or Google Chrome recommended
+- Take the exam at a quiet location, with a wired Internet connection or strong WiFi signal
+- Write your answers in a word processing app and then paste them into Quiz answer fields
+- During the exam you can post questions in the Final Exam Clarifications discussion
+- Only press the Submit button once when you have completed the Quiz
 
-#### Week 13 Live Blackboard Collaborate Sessions
-
-* [plugin:page-inject](/211/online-sessions/week-13-1)
-* [plugin:page-inject](/211/online-sessions/week-13-2)
-
-#### Week 13 Required Readings and One-Minute Summaries
-
-* [plugin:page-inject](/211/weekly-readings/week-13-1?template=partials/embedlycardlinkonly)  
-* [plugin:page-inject](/211/weekly-readings/week-13-2?template=partials/embedlycardlinkonly)  
+Have a question about the Final Exam? Post your question in the [Final Exam Q&A forum](https://canvas.sfu.ca/courses/59869/discussion_topics/1200040).

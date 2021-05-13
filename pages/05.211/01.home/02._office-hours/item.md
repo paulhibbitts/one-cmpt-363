@@ -1,6 +1,6 @@
 ---
 title: 'Regular Office Hours'
-published: true
+published: false
 ---
 
 ## Online Office (Student) Hours 🏫
