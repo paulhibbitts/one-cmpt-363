@@ -4,7 +4,7 @@ alert_style: alert-secondary
 published: true
 ---
 
-## What's Happening This Week 💫
+## What’s Happening This Week 💫
 
 ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/56304/external_tools/3544)  
 

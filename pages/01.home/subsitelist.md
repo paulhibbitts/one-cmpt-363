@@ -12,4 +12,4 @@ content:
         dir: desc
 ---
 
-This site contains past, current and future offerings of CMPT-363 User Interface Design at [Simon Fraser University](https://www.sfu.ca/).
+This site contains past offerings of CMPT-363 User Interface Design at [Simon Fraser University](https://www.sfu.ca/) from Summer 2020 to Spring 2021. Looking for the Fall 2021 CMPT-363 course site? It's located at [paulhibbitts.github.io/cmpt-363-213](https://paulhibbitts.github.io/cmpt-363-213/#/)
